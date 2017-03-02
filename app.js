@@ -6,3 +6,5 @@ for(i=0;i<10;i++){
 
 
 console.log('hello from fit3140   :'+ sum);
+
+console.log('hello from fit3140   :'+ sum);
